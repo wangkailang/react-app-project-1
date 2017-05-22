@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "nwb": "^0.15.8",
     "react-scripts": "1.0.3"
   },
   "dependencies": {
